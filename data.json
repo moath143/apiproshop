@@ -4,37 +4,37 @@
       "title": "playstation 5",
       "description": "Lightining-fast downlad speed with super-fast SSD storage",
       "discount": "Save up to 39.99$",
-      "image": "./src/Assets/img1.png"
+      "image": "https://proshop.101bloom.com/Assets/img1.PNG"
     },
     {
       "title": "apple airpods",
       "description": "AirPods are the best-selling headphones in the world",
       "discount": "Save up to 49.99$",
-      "image": "./src/Assets/img12.png"
+      "image": "https://proshop.101bloom.com/Assets/img12.PNG"
     },
     {
       "title": "iphone 11 pro",
       "description": "Pro cameras.Pro display.Pro performance.Pro battery life.",
       "discount": "Save up to 99.99$",
-      "image": "./src/Assets/img13.png"
+      "image": "https://proshop.101bloom.com/Assets/img13.PNG"
     }
   ],
   "categories": [
     {
       "title": "laptop",
-      "image": "./src/Assets/img2.png"
+      "image": "https://proshop.101bloom.com/Assets/img2.PNG"
     },
     {
       "title": "computer components",
-      "image": "./src/Assets/img3.png"
+      "image": "https://proshop.101bloom.com/Assets/img3.PNG"
     },
     {
       "title": "devices",
-      "image": "./src/Assets/img5.png"
+      "image": "https://proshop.101bloom.com/Assets/img5.PNG"
     },
     {
       "title": "accessories",
-      "image": "./src/Assets/img4.png"
+      "image": "https://proshop.101bloom.com/Assets/img4.PNG"
     }
   ],
   "products": [
@@ -42,7 +42,7 @@
       "title": "Apple iPhone 11 Pro 256GB Memory",
       "rating": "4.5",
       "price": "499.99$",
-      "image": "./src/Assets/img8.png"
+      "image": "https://proshop.101bloom.com/Assets/img8.PNG"
     },
     {
       "title": "Apple Airpods Wireless Bluetooth Headset",
@@ -50,13 +50,13 @@
       "price": "99.99$",
       "newPrice": "89.99$",
       "ratioDiscount": "-30%",
-      "image": "./src/Assets/img7.png"
+      "image": "https://proshop.101bloom.com/Assets/img7.PNG"
     },
     {
       "title": "Sony Playstation 4 Pro White Version",
       "rating": "1",
       "price": "399.99$",
-      "image": "./src/Assets/img6.png"
+      "image": "https://proshop.101bloom.com/Assets/img6.PNG"
     }
   ],
   "topRateProducts": [
@@ -64,7 +64,7 @@
       "title": "Canon Eos 80D DSLR Camera",
       "rating": "4.5",
       "price": "799.99$",
-      "image": "./src/Assets/img11.png"
+      "image": "https://proshop.101bloom.com/Assets/img11.PNG"
     },
     {
       "title": "Logitech G-Series Gaming Mouse",
@@ -72,13 +72,13 @@
       "price": "49.99$",
       "newPrice": "89.99$",
       "ratioDiscount": "-30%",
-      "image": "./src/Assets/img10.png"
+      "image": "https://proshop.101bloom.com/Assets/img10.PNG"
     },
     {
       "title": "Amazon Echo Dot 3rd Generation",
       "rating": "5",
       "price": "29.99$",
-      "image": "./src/Assets/img9.png"
+      "image": "https://proshop.101bloom.com/Assets/img9.PNG"
     }
   ]
 }
