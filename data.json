@@ -4,37 +4,37 @@
       "title": "playstation 5",
       "description": "Lightining-fast downlad speed with super-fast SSD storage",
       "discount": "Save up to 39.99$",
-      "image": "https://proshop.101bloom.com/Assets/img1.PNG"
+      "image": "https://www.cobrashop.ps/wp-content/uploads/2021/03/CONSOLE-PS5-03.jpg"
     },
     {
       "title": "apple airpods",
       "description": "AirPods are the best-selling headphones in the world",
       "discount": "Save up to 49.99$",
-      "image": "https://proshop.101bloom.com/Assets/img12.PNG"
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000"
     },
     {
       "title": "iphone 11 pro",
       "description": "Pro cameras.Pro display.Pro performance.Pro battery life.",
       "discount": "Save up to 99.99$",
-      "image": "https://proshop.101bloom.com/Assets/img13.PNG"
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MX0H2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1567304952459"
     }
   ],
   "categories": [
     {
       "title": "laptop",
-      "image": "https://proshop.101bloom.com/Assets/img2.PNG"
+      "image": "https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFWY0xDMEcxM0wuX0FDX1NMMTUwMF8uanBn.jpg"
     },
     {
       "title": "computer components",
-      "image": "https://proshop.101bloom.com/Assets/img3.PNG"
+      "image": "http://sc04.alicdn.com/kf/H2611513d96c2413b874df03936b7c2b73.jpg"
     },
     {
       "title": "devices",
-      "image": "https://proshop.101bloom.com/Assets/img5.PNG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Different_devices.svg/1280px-Different_devices.svg.png"
     },
     {
       "title": "accessories",
-      "image": "https://proshop.101bloom.com/Assets/img4.PNG"
+      "image": "https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-hero.png"
     }
   ],
   "products": [
@@ -42,7 +42,7 @@
       "title": "Apple iPhone 11 Pro 256GB Memory",
       "rating": "4.5",
       "price": "499.99$",
-      "image": "https://proshop.101bloom.com/Assets/img8.PNG"
+      "image": "https://cdn.shopify.com/s/files/1/0613/4838/0859/products/61ers6OzvUL._SL1024.jpg?v=1645960848"
     },
     {
       "title": "Apple Airpods Wireless Bluetooth Headset",
@@ -50,13 +50,13 @@
       "price": "99.99$",
       "newPrice": "89.99$",
       "ratioDiscount": "-30%",
-      "image": "https://proshop.101bloom.com/Assets/img7.PNG"
+       "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000"
     },
     {
       "title": "Sony Playstation 4 Pro White Version",
       "rating": "1",
       "price": "399.99$",
-      "image": "https://proshop.101bloom.com/Assets/img6.PNG"
+      "image": "https://www.cobrashop.ps/wp-content/uploads/2021/03/CONSOLE-PS5-03.jpg"
     }
   ],
   "topRateProducts": [
@@ -64,7 +64,7 @@
       "title": "Canon Eos 80D DSLR Camera",
       "rating": "4.5",
       "price": "799.99$",
-      "image": "https://proshop.101bloom.com/Assets/img11.PNG"
+      "image": "https://www.luluhypermarket.com/cdn-cgi/image/f=auto/medias/1183705-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNDU3MDZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDNjL2g1Yi85MDkxMzQ4MjAxNTAyLmpwZ3w4NDg5ZGZhM2NhMmM4YTdhOWE0MGU3YTMxMmZkOTRmODBiODg0MzE4NWFiMDZmM2RhOWMxZmQzY2NmNmRlMGRh"
     },
     {
       "title": "Logitech G-Series Gaming Mouse",
@@ -72,13 +72,13 @@
       "price": "49.99$",
       "newPrice": "89.99$",
       "ratioDiscount": "-30%",
-      "image": "https://proshop.101bloom.com/Assets/img10.PNG"
+      "image": "https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-hero.png"
     },
     {
       "title": "Amazon Echo Dot 3rd Generation",
       "rating": "5",
       "price": "29.99$",
-      "image": "https://proshop.101bloom.com/Assets/img9.PNG"
+      "image": "notebookcheck.net/fileadmin/Notebooks/Amazon/Echo_Dot/Echo_Dot_Black_Low_Angle_On.jpg"
     }
   ]
 }
